@@ -1,4 +1,4 @@
-package esercizioereditarietaoverride;
+package esercizioereditarietaoverride;  //PIETRO BARBAGALLO
 
 public class Persona {
     protected String nome;

@@ -1,4 +1,4 @@
-package esercizioereditarietaoverride;
+package esercizioereditarietaoverride;  //PIETRO BARBAGALLO
 
 public class Studente extends Persona {
     private String matricola;
